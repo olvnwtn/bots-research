@@ -75,11 +75,11 @@ Saadat, S., & Sukthankar, G. (2020). Explaining Differences in Classes of Discre
 
 ### APA
 
-Newton, O. B., Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (in press). EveryBOTy Counts: Examining Human-Machine Teams in Open Source Software Development. *Topics in Cognitive Science.* 
+Newton, O. B., Saadat, S., Song, J., Sukthankar, G., & Fiore, S. M. (2024). EveryBOTy Counts: Examining Human-Machine Teams in Open Source Software Development. *Topics in Cognitive Science, 16*(3). 450-484. [https://doi.org/10.1111/tops.12613](https://doi.org/10.1111/tops.12613)
 
 ### ACM 
 
-Olivia B. Newton, Samaneh Saadat, Jihye Song, Gita Sukthankar, and Stephen M. Fiore. EveryBOTy Counts: Examining Human-Machine Teams in Open Source Software Development. *Topics in Cognitive Science.*
+Olivia B. Newton, Samaneh Saadat, Jihye Song, Gita Sukthankar, and Stephen M. Fiore. 2024. EveryBOTy Counts: Examining Human-Machine Teams in Open Source Software Development. *Topics in Cognitive Science* 16, 3 (July 2024), 450-484. [https://doi.org/10.1111/tops.12613](https://doi.org/10.1111/tops.12613)
 
 
 
